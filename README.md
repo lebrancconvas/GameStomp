@@ -1,4 +1,4 @@
-# os-micro01
+# GameStomp 
 
 ## Project setup
 ```
